@@ -1,0 +1,7 @@
+C:\Users\TEMP.VLO30-10\documents\visual studio 2010\Projects\Bekowo\Bekowo\bin\Debug\Bekowo.exe
+C:\Users\TEMP.VLO30-10\documents\visual studio 2010\Projects\Bekowo\Bekowo\bin\Debug\Bekowo.pdb
+C:\Users\TEMP.VLO30-10\documents\visual studio 2010\Projects\Bekowo\Bekowo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\TEMP.VLO30-10\documents\visual studio 2010\Projects\Bekowo\Bekowo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TEMP.VLO30-10\documents\visual studio 2010\Projects\Bekowo\Bekowo\obj\x86\Debug\Bekowo.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-10\documents\visual studio 2010\Projects\Bekowo\Bekowo\obj\x86\Debug\Bekowo.exe
+C:\Users\TEMP.VLO30-10\documents\visual studio 2010\Projects\Bekowo\Bekowo\obj\x86\Debug\Bekowo.pdb
